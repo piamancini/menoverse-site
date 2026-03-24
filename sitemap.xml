@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://menoverse.ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/best-menopause-apps</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/best-menopause-apps"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/mejores-apps-menopausia"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/methodology</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/methodology"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/metodologia"/>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/faq"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/faq"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/givezero-vs-elektra-health</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/givezero-vs-elektra-health"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/givezero-vs-elektra-health"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/givezero-vs-peppy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/givezero-vs-peppy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/givezero-vs-peppy"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/givezero-vs-flo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/givezero-vs-flo"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/givezero-vs-flo"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/givezero-vs-gennev</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://menoverse.ai/givezero-vs-gennev"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://menoverse.ai/es/givezero-vs-gennev"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <!-- Spanish mirrors -->
+  <url>
+    <loc>https://menoverse.ai/es/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/mejores-apps-menopausia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/metodologia</loc>
+    <changefreq>quarterly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/faq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/givezero-vs-elektra-health</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/givezero-vs-peppy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/givezero-vs-flo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://menoverse.ai/es/givezero-vs-gennev</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+
+</urlset>
